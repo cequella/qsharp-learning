@@ -3,3 +3,5 @@ Scripts/
 etc/
 share/
 pyvenv.cfg
+temp/**/*
+!temp/.gitkeep
